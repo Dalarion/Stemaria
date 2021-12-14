@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "stemaria:blocks/conduit_side",
+    "end": "stemaria:blocks/conduit_top"
+  }
+}

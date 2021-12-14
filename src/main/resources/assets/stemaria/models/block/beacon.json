@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "stemaria:blocks/beacon_side",
+    "end": "stemaria:blocks/beacon_top"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "stemaria:block/glassstem_stage0"
+    },
+    "age=1": {
+      "model": "stemaria:block/glassstem_stage1"
+    },
+    "age=2": {
+      "model": "stemaria:block/glassstem_stage2"
+    },
+    "age=3": {
+      "model": "stemaria:block/glassstem_stage3"
+    },
+    "age=4": {
+      "model": "stemaria:block/glassstem_stage4"
+    },
+    "age=5": {
+      "model": "stemaria:block/glassstem_stage5"
+    },
+    "age=6": {
+      "model": "stemaria:block/glassstem_stage6"
+    },
+    "age=7": {
+      "model": "stemaria:block/glassstem_stage7"
+    }
+  }
+}

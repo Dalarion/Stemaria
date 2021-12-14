@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/stem_fruit",
+  "textures": {
+    "stem": "stemaria:blocks/lightblue_stem",
+    "upperstem": "stemaria:blocks/attached_lightblue_stem"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "stemaria:block/attached_coal_stem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stemaria:block/attached_coal_stem",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "stemaria:block/attached_coal_stem"
+    },
+    "facing=east": {
+      "model": "stemaria:block/attached_coal_stem",
+      "y": 180
+    }
+  }
+}

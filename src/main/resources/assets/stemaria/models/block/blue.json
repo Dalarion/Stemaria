@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "stemaria:blocks/blue_side",
+    "end": "stemaria:blocks/blue_top"
+  }
+}

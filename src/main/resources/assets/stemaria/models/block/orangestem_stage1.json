@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/stem_growth1",
+  "textures": {
+    "stem": "stemaria:blocks/orange_stem"
+  }
+}

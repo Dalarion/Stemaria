@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "stemaria:blocks/clay_side",
+    "end": "stemaria:blocks/clay_top"
+  }
+}

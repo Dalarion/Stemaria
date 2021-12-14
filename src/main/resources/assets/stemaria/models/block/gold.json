@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "stemaria:blocks/gold_side",
+    "end": "stemaria:blocks/gold_top"
+  }
+}
